@@ -1,0 +1,1 @@
+var json_Capital_8 = {"type":"FeatureCollection","name":"Capital_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nombre":"Santiago de Chile","poblacion":"7007000","idioma":"Español","moneda":"Pesos","fundacion":"1541"},"geometry":{"type":"Point","coordinates":[-70.6667,-33.45]}}]}
